@@ -21,6 +21,8 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
+    "bpmn-js": "^9.1.0",
+    "diagram-js-minimap": "^2.1.1",
     "electron-log": "^4.4.6",
     "electron-updater": "^5.0.1",
     "express": "^4.18.1",
